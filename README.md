@@ -1,1 +1,1 @@
-# All ml algorithms I have learned
+**All ml algorithms I have learned**
